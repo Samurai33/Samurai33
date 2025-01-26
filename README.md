@@ -26,7 +26,9 @@
 - 💼 LinkedIn: [Thiago La Marca Rangel](https://www.linkedin.com/in/th1rangel/)
 
 📈 **My GitHub Stats:**
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samurai33&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samurai33&layout=compact&theme=radical)
 
 🌟 **Fun Fact:** I’m developing an algorithm to predict aviation accidents and reduce them to nearly zero.
