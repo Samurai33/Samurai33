@@ -31,8 +31,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samurai33&layout=compact&theme=radical)
 
-🌟 **Fun Fact:** I’m developing an algorithm to predict aviation accidents and reduce them to nearly zero.
+🌟 **Fun Fact:** 🎧 Experienced **DJ**, spinning beats and mixing tracks on turntables.
 
 🎓 **Certifications & Hobbies:**
 - 🚁 Certified **Helicopter Flight Instructor**, passionate about aviation safety and training.
-- 🎧 Experienced **DJ**, spinning beats and mixing tracks on turntables.
