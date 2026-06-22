@@ -1,54 +1,68 @@
-# 👋 Hey, I'm Samurai33!
+<div align="center">
 
-## 🚀 Full-Stack Developer | Cloud & AI Solutions Architect
+# Thiago Rangel
 
-Passionate about building innovative, scalable, and high-impact solutions — from aviation and agriculture systems to music platforms, roleplay servers, and artificial intelligence.
+### AI, Cybersecurity & Full-Stack Engineer
+
+I turn complex workflows into practical software — with a current focus on
+**secure AI products, cybersecurity, aviation, data governance and sustainable infrastructure**.
+
+[![Email](https://img.shields.io/badge/Email-samurai%40n3xus.dev-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:samurai@n3xus.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Samurai33-181717?style=flat-square&logo=github)](https://github.com/Samurai33)
+[![N3xus D3v](https://img.shields.io/badge/N3xus_D3v-Product_Studio-7C3AED?style=flat-square)](mailto:samurai@n3xus.dev)
+
+</div>
+
+## What I build
+
+- AI-assisted systems with human review, traceability and production guardrails
+- Cybersecurity and privacy solutions for investigation, governance and compliance
+- Full-stack web products using TypeScript, React, Next.js and Node.js
+- Data and compliance solutions with Python, dashboards, APIs and cloud services
+- Interfaces designed around operational clarity, security and responsive UX
+
+I bring a multidisciplinary perspective shaped by software, aviation and music.
+Outside the editor, I am a helicopter flight instructor and DJ — two worlds where
+timing, precision and situational awareness matter just as much as they do in engineering.
+
+## Selected work
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**GreenPulse**](https://github.com/Samurai33/GreenPulse) · [Live](https://greenpulse-pi.vercel.app) | Monitors energy, carbon and operational health for critical and sustainable infrastructure. | React, TypeScript, Vite, Tailwind CSS |
+| [**CyberJustice Brasil**](https://github.com/Samurai33/CyberJust) · [Live](https://v0-cyber-justica.vercel.app) | Cybercrime investigation experience with forensic workflows, analytics and specialist discovery. | Next.js, TypeScript, Tailwind CSS |
+| [**Data Sentinel**](https://github.com/Samurai33/delduque-data-sentinel) | Governance dashboard for sensitive data, security monitoring and LGPD-oriented analysis. | Python, Streamlit, Pandas, Plotly, Docker |
+| [**VoltEra Nexus**](https://github.com/Samurai33/VoltEra-Nexus-The-Energy-Consciousness-Protocol) | Interactive project connecting clean-energy concepts, digital art and decentralized infrastructure. | Next.js, TypeScript, Tailwind CSS, Framer Motion |
+
+### Currently building
+
+**Ops Log AI** — an AI-assisted aviation operations logbook for extracting,
+reviewing and preserving flight, fuel and maintenance records with human approval,
+auditability and privacy-by-design.
+
+## Core toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,fastapi,tailwind,firebase,supabase,docker,gcp,azure,git,github&perline=8" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Python, FastAPI, Tailwind CSS, Firebase, Supabase, Docker, Google Cloud, Azure, Git and GitHub" />
+</p>
+
+**Engineering priorities:** cybersecurity · secure architecture · clean APIs ·
+human-centered AI · data privacy · observability · CI/CD · maintainable delivery
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Samurai33&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github" alt="Thiago Rangel's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samurai33&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-**Frontend:** React, Tailwind CSS, Shadcn UI, V0.dev  
-**Backend:** Python, Node.js, FastAPI, Tauri  
-**Cloud & Infra:** Docker, Kubernetes, Supabase, Neon, Google Cloud, Azure, Shadow PC  
-**AI & Data:** TensorFlow, PyTorch, LLM Fine-Tuning, Apache Airflow, OpenRouter API  
-**Other:** GitHub Actions (CI/CD), System Gamification, Security & Privacy (LGPD)
+Open to conversations about **AI products, cybersecurity, aviation technology,
+data governance and sustainable infrastructure**.
 
----
+[Get in touch](mailto:samurai@n3xus.dev)
 
-## 🌟 Featured Projects
-
-- [**DownFaya**](https://github.com/Samurai33/downfaya): DJ tool with BPM/Key analysis, automatic cue points, and tags compatible with performance software.
-- [**DBE Rangel**](https://github.com/Samurai33/dbe-rangel): Electronic Logbook for helicopters, with ANAC integration and regulatory compliance focus.
-- [**VolTera**](https://github.com/Samurai33/voltera): Modular and sustainable solutions for datacenters, combining green energy and scalability.
-- [**Flutera**](https://github.com/Samurai33/flutera): Automated aeroponic cultivation platform powered by Supabase.
-- [**Marola RP**](https://github.com/Samurai33/marola-rp): Tier 2 FiveM RP server, with market benchmarking, ethical monetization, and optimized infrastructure.
-- [**MindVault AI**](https://github.com/Samurai33/mindvault-ai): Digital memory vault with AI, encryption, and interactive time capsule.
-- [**EduTech**](https://github.com/Samurai33/edutech): Interactive apps and courses for Privacy (LGPD), IFRH aviation license, and gamified incentive platforms.
-- [**delduque-data-sentinel**](https://github.com/Samurai33/delduque-data-sentinel): Data governance and monitoring platform focused on privacy, security, and compliance. Includes dashboards, automated alerts, and API integration.
-
----
-
-## 📈 My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samurai33&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samurai33&layout=compact&theme=radical)
-
----
-
-## 🧠 Fun Fact
-
-🎧 Experienced **DJ**, spinning beats and mixing tracks on turntables.  
-🚁 Certified **Helicopter Flight Instructor**, passionate about aviation safety and training.
-
----
-
-## 📫 Let's Connect!
-
-*Coming soon: social media and personal website links.*
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
+</div>
