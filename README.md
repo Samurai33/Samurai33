@@ -1,6 +1,6 @@
 <div align="center">
 
-# Thiago Rangel
+# Samurai
 
 ### AI, Cybersecurity & Full-Stack Engineer
 
