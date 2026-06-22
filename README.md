@@ -102,12 +102,9 @@ These are the projects that best represent how I think and build.
 
 ```mermaid
 flowchart LR
-    A["Real-world problem"] --> B["Threat & domain modeling"]
-    B --> C["Secure architecture"]
-    C --> D["Incremental implementation"]
-    D --> E["Tests, CI & evidence"]
-    E --> F["Human review"]
-    F --> G["Production gates"]
+    A["Understand<br/>domain + threats"] --> B["Design<br/>secure architecture"]
+    B --> C["Build + validate<br/>tests + evidence"]
+    C --> D["Release<br/>human review + gates"]
 ```
 
 - **Security before spectacle** — authentication, authorization, isolation and
