@@ -1,6 +1,6 @@
 <div align="center">
 
-![Samurai — AI, Cybersecurity and Full-Stack Engineering](assets/profile-banner.svg)
+![Samurai — Cybersecurity, AI Systems and Full-Stack Engineering](assets/samurai33_banner_github.png)
 
 ### Building secure, intelligent systems for operations where trust matters.
 
