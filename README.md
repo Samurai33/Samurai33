@@ -53,7 +53,13 @@ Scope control, attack-surface mapping, sanitized evidence with integrity hashes,
 ## Now shipping
 
 <!-- SHIPPING:START -->
-_Auto-updated daily by GitHub Actions from my most recently pushed public repositories._
+| Repository | What it is | Stack | Last push |
+|---|---|---|---|
+| [CyberJust](https://github.com/Samurai33/CyberJust) | Cybersecurity media and education experience exploring Brazilian cybercrime cases, specialists and digital protection. | TypeScript | 13d ago |
+| [hotlead](https://github.com/Samurai33/hotlead) | plataforma para Scrapp de Leads quentes | Python | 13d ago |
+| [GreenPulse](https://github.com/Samurai33/GreenPulse) | Sustainable datacenter monitoring for energy, carbon impact, SRE health and idle-resource optimization. | TypeScript | 1mo ago |
+| [VoltEra-Nexus-The-Energy-Consciousness-Protocol](https://github.com/Samurai33/VoltEra-Nexus-The-Energy-Consciousness-Protocol) | Interactive digital-art experience connecting clean energy, decentralized infrastructure and speculative technology. | TypeScript | 3mo ago |
+| [MRP](https://github.com/Samurai33/MRP) | Public architecture, documentation and reference assets for the Marola RP FiveM roleplay ecosystem. | JavaScript | 3mo ago |
 <!-- SHIPPING:END -->
 
 ## How I engineer
