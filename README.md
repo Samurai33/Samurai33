@@ -55,8 +55,8 @@ Scope control, attack-surface mapping, sanitized evidence with integrity hashes,
 <!-- SHIPPING:START -->
 | Repository | What it is | Stack | Last push |
 |---|---|---|---|
-| [hotlead](https://github.com/Samurai33/hotlead) | plataforma para Scrapp de Leads quentes | Python | 1d ago |
-| [CyberJust](https://github.com/Samurai33/CyberJust) | Cybersecurity media and education experience exploring Brazilian cybercrime cases, specialists and digital protection. | TypeScript | 15d ago |
+| [hotlead](https://github.com/Samurai33/hotlead) | plataforma para Scrapp de Leads quentes | Python | 2d ago |
+| [CyberJust](https://github.com/Samurai33/CyberJust) | Cybersecurity media and education experience exploring Brazilian cybercrime cases, specialists and digital protection. | TypeScript | 16d ago |
 | [GreenPulse](https://github.com/Samurai33/GreenPulse) | Sustainable datacenter monitoring for energy, carbon impact, SRE health and idle-resource optimization. | TypeScript | 1mo ago |
 | [VoltEra-Nexus-The-Energy-Consciousness-Protocol](https://github.com/Samurai33/VoltEra-Nexus-The-Energy-Consciousness-Protocol) | Interactive digital-art experience connecting clean energy, decentralized infrastructure and speculative technology. | TypeScript | 3mo ago |
 | [MRP](https://github.com/Samurai33/MRP) | Public architecture, documentation and reference assets for the Marola RP FiveM roleplay ecosystem. | JavaScript | 3mo ago |
