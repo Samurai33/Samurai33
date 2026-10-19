@@ -5,7 +5,7 @@ import subprocess
 from datetime import datetime, timezone
 
 USER = "Samurai33"
-SKIP = {USER}           # repos never listed (e.g. the profile repo itself)
+SKIP = {USER, "hotlead"}  # profile repo itself + repos kept off the showcase
 LIMIT = 5
 
 raw = subprocess.check_output(
