@@ -40,13 +40,14 @@ A small production lab, run like a real one:
 - **Compute** — Proxmox VE on a Dell R730 + a self-built X99 node — ~40 monitored VMs, containers and apps
 - **Deploy** — Coolify (self-hosted PaaS), Docker, deploy keys per app, nightly vzdump + off-site backups to Cloudflare R2
 - **Edge & access** — Cloudflare Tunnel, Access (Zero Trust) and Workers in front of everything; nothing exposed directly
-- **Observability** — Prometheus, Alertmanager and exporters for hosts, VMs, MikroTik routers and UPS; alerts to Telegram 24/7
+- **Observability** — Prometheus, Alertmanager and exporters for hosts, VMs, MikroTik routers and UPS; alerts to Telegram 24/7 ([open-sourced](https://github.com/Samurai33/n3xus-lab-observability))
 - **Power** — UPS monitored via NUT + diesel generator, so "online" survives a blackout
 
 ## Open source you can inspect
 
 | Project | What you can verify in the repo |
 |---|---|
+| **[n3xus-lab-observability](https://github.com/Samurai33/n3xus-lab-observability)** | The lab's monitoring stack, sanitized · 71 Prometheus alert rules tuned on real incidents · read-only Proxmox & MikroTik · NUT/vzdump/Docker collectors · gitleaks-checked · Docker Compose quickstart |
 | **[CyberJust](https://github.com/Samurai33/CyberJust)** | Unit + E2E tests · `SECURITY.md` · 185+ issues & PRs with conventional commits · rate-limiter XFF-bypass fix · hardened headers |
 | **[n3xus-video-factory](https://github.com/Samurai33/n3xus-video-factory)** | Self-hosted agentic video pipeline · n8n control plane · Docker Compose validated in CI · human review gates |
 | **[Data Sentinel](https://github.com/Samurai33/delduque-data-sentinel)** | LGPD PII detection · risk dashboards in Plotly · Docker delivery |
