@@ -50,7 +50,7 @@ A small production lab, run like a real one:
 | **[n3xus-lab-observability](https://github.com/Samurai33/n3xus-lab-observability)** | The lab's monitoring stack, sanitized · 71 Prometheus alert rules tuned on real incidents · read-only Proxmox & MikroTik · NUT/vzdump/Docker collectors · gitleaks-checked · Docker Compose quickstart |
 | **[CyberJust](https://github.com/Samurai33/CyberJust)** | Unit + E2E tests · `SECURITY.md` · 185+ issues & PRs with conventional commits · rate-limiter XFF-bypass fix · hardened headers |
 | **[n3xus-video-factory](https://github.com/Samurai33/n3xus-video-factory)** | Self-hosted agentic video pipeline · n8n control plane · Docker Compose validated in CI · human review gates |
-| **[Data Sentinel](https://github.com/Samurai33/delduque-data-sentinel)** | LGPD PII detection · risk dashboards in Plotly · Docker delivery |
+| **[Data Sentinel](https://github.com/Samurai33/delduque-data-sentinel)** | Streamlit dashboard over a sensitive Google Sheet · read-only Drive service account · Plotly · Docker |
 | **[GreenPulse](https://github.com/Samurai33/GreenPulse)** | Datacenter energy & SRE dashboard · CI · `SECURITY.md` / `CONTRIBUTING.md` · explicit demo-data boundaries |
 
 ## Private work
