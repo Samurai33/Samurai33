@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/n3xus.dev-0B1220?style=for-the-badge&logo=googlechrome&logoColor=14B8A6)](https://n3xus.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th1rangel)
 [![Status](https://img.shields.io/badge/status.n3xus.dev-live-2EA043?style=for-the-badge&logo=statuspage&logoColor=white)](https://status.n3xus.dev)
-[![Email](https://img.shields.io/badge/samurai%40n3xus.dev-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samurai@n3xus.dev)
+[![Email](https://img.shields.io/badge/contato%40n3xus.dev-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@n3xus.dev)
 
 </div>
 
@@ -106,6 +106,6 @@ Helicopter flight instructor and DJ. Aviation taught me checklists, risk awarene
 
 <div align="center">
 
-**Need something built, secured or kept online?** → [samurai@n3xus.dev](mailto:samurai@n3xus.dev)
+**Need something built, secured or kept online?** → [contato@n3xus.dev](mailto:contato@n3xus.dev)
 
 </div>
