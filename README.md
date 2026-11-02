@@ -67,10 +67,10 @@ Client or product confidentiality — architecture walkthroughs available on req
 | Repository | What it is | Stack | Last push |
 |---|---|---|---|
 | [CyberJust](https://github.com/Samurai33/CyberJust) | Cybersecurity media and education experience exploring Brazilian cybercrime cases, specialists and digital protection. | Python | today |
-| [n3xus-lab-observability](https://github.com/Samurai33/n3xus-lab-observability) | Prometheus + Alertmanager monitoring for a self-hosted Proxmox lab: UPS (NUT), IPMI, vzdump backups, Docker, MikroTik (MKTXP), ICMP uplink probes and Proxmox→Telegram notifications. | Python | 13d ago |
-| [MarolaOT-Scripts](https://github.com/Samurai33/MarolaOT-Scripts) | Reproducible automation, diagnostics and safe maintenance for MarolaOT / OTClient / vBot 4.8 — backup, rollback, PowerShell CI. | PowerShell | 13d ago |
-| [VoltEra-Nexus-The-Energy-Consciousness-Protocol](https://github.com/Samurai33/VoltEra-Nexus-The-Energy-Consciousness-Protocol) | Interactive digital-art experience connecting clean energy, decentralized infrastructure and speculative technology. | TypeScript | 13d ago |
-| [Kernel-Mind](https://github.com/Samurai33/Kernel-Mind) | Research and product concept for neuroscience-informed ambient soundscapes designed to support developer focus. | — | 13d ago |
+| [n3xus-lab-observability](https://github.com/Samurai33/n3xus-lab-observability) | Prometheus + Alertmanager monitoring for a self-hosted Proxmox lab: UPS (NUT), IPMI, vzdump backups, Docker, MikroTik (MKTXP), ICMP uplink probes and Proxmox→Telegram notifications. | Python | 14d ago |
+| [MarolaOT-Scripts](https://github.com/Samurai33/MarolaOT-Scripts) | Reproducible automation, diagnostics and safe maintenance for MarolaOT / OTClient / vBot 4.8 — backup, rollback, PowerShell CI. | PowerShell | 14d ago |
+| [VoltEra-Nexus-The-Energy-Consciousness-Protocol](https://github.com/Samurai33/VoltEra-Nexus-The-Energy-Consciousness-Protocol) | Interactive digital-art experience connecting clean energy, decentralized infrastructure and speculative technology. | TypeScript | 14d ago |
+| [Kernel-Mind](https://github.com/Samurai33/Kernel-Mind) | Research and product concept for neuroscience-informed ambient soundscapes designed to support developer focus. | — | 14d ago |
 <!-- SHIPPING:END -->
 
 <details>
