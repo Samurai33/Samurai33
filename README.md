@@ -66,7 +66,7 @@ Client or product confidentiality — architecture walkthroughs available on req
 <!-- SHIPPING:START -->
 | Repository | What it is | Stack | Last push |
 |---|---|---|---|
-| [CyberJust](https://github.com/Samurai33/CyberJust) | Cybersecurity media and education experience exploring Brazilian cybercrime cases, specialists and digital protection. | Python | 3d ago |
+| [CyberJust](https://github.com/Samurai33/CyberJust) | Cybersecurity media and education experience exploring Brazilian cybercrime cases, specialists and digital protection. | Python | 4d ago |
 | [n3xus-lab-observability](https://github.com/Samurai33/n3xus-lab-observability) | Prometheus + Alertmanager monitoring for a self-hosted Proxmox lab: UPS (NUT), IPMI, vzdump backups, Docker, MikroTik (MKTXP), ICMP uplink probes and Proxmox→Telegram notifications. | Python | 1mo ago |
 | [MarolaOT-Scripts](https://github.com/Samurai33/MarolaOT-Scripts) | Reproducible automation, diagnostics and safe maintenance for MarolaOT / OTClient / vBot 4.8 — backup, rollback, PowerShell CI. | PowerShell | 1mo ago |
 | [VoltEra-Nexus-The-Energy-Consciousness-Protocol](https://github.com/Samurai33/VoltEra-Nexus-The-Energy-Consciousness-Protocol) | Interactive digital-art experience connecting clean energy, decentralized infrastructure and speculative technology. | TypeScript | 1mo ago |
